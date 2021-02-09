@@ -1,5 +1,7 @@
 # ICLR 2021 
 
-Only download the accepted poster and oral papers, except spotlight, from OpenReview (https://openreview.net/group?id=ICLR.cc/2021/Conference#oral-presentations)
+Download the accepted poster,  oral and spotlight papers from OpenReview (https://openreview.net/group?id=ICLR.cc/2021/Conference#oral-presentations)
+
+Use `paper_list.txt` to download poster and oral papers, and then substitude `paper_list.txt` in python code to `Spotlight_paper_list.txt` so as to download spotlight paper. 
 
 This work is based on https://github.com/hlhllh/download-conference-pdf/blob/main/pdf_down_openreview.py, which is originally to download all submitted paper. 
